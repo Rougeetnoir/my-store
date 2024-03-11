@@ -1,0 +1,1 @@
+import type { InitOptions } from "payload/config";
